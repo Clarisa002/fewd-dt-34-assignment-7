@@ -293,7 +293,7 @@ footer p {
   padding: 10px 0;
 }
 
-@media(max-width:768px){
+@media(max-width:960px){
   body{
     max-width: 100%;
   }
@@ -306,6 +306,7 @@ footer p {
   float: left;
   font-size: 35px;
   font-weight: 800;
+  
 }
 .container{
 width:100%;
@@ -336,7 +337,7 @@ padding:15px;
     display: block;
   }
 #page-header h1 {
-    padding: 10px 0;
+    padding: 10px;
     margin: 0;
   }
   #page-header nav li{
